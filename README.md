@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Prajwalyak
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning fullstack
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me 7353309767
